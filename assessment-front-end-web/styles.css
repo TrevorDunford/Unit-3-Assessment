@@ -1,0 +1,117 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 500px;
+}
+
+.my-interests,
+.my-skills,
+.my-career-goals{
+	border: solid;
+	width: 200px;
+	color: cadetblue;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 25%;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.Trevor-heading,
+.Trevor-intro {
+  text-align: center;
+}
+
+.Trevor {
+	padding: 6em 0;
+	background-size: cover;
+	border-top: solid cadetblue;
+	margin: 0;
+	width: 100vw;
+  }
+
+  .Trevor-intro {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 2em;
+}
+.Trevor-heading {
+    color:cadetblue;
+    margin-top: 10px;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
+
+.About-Trevor{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+
+.colorbutton{
+  background-color:  yellow;
+    display: block;
+    width: 100%;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.placebutton{
+  background-color: yellow;
+  display: block;
+  width: 100%;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.ritualbutton{
+  background-color: yellow;
+  display: block;
+  width: 100%;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+
+}
